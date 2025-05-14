@@ -12,7 +12,7 @@
   <img align="center" alt="Muek-cplusplus" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />
   <img align="center" alt="Muel-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
   <img align="center" alt="Muel-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg">
-  <img align="right" alt="Muel-gif" src="https://cdn.discordapp.com/attachments/1297081021593817132/1372007680058589194/IMG_1197.gif?ex=68253539&is=6823e3b9&hm=a9cb850467d965900b5858c44d49c6f50ac7fb9f80deb8c9188b3a1e4afbf4fe&">
+  
   </div>
 
 ## Entre em Contato comigo:
@@ -22,7 +22,10 @@
 </a>
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mlz777k&layout=compact"> ![Muel github stats](https://github-readme-stats.vercel.app/api?username=mlz777k&show_icons=true&hide=[%22issues%22])
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mlz777k&layout=compact"> 
+
+
+<img align="" alt="Muel-gif" src="https://cdn.discordapp.com/attachments/1297081021593817132/1372007680058589194/IMG_1197.gif?ex=68253539&is=6823e3b9&hm=a9cb850467d965900b5858c44d49c6f50ac7fb9f80deb8c9188b3a1e4afbf4fe&">
 
 
 
