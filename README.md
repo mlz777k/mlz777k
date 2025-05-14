@@ -1,7 +1,7 @@
 ## Olá, bem vindo(a) ao meu GiThub.
 
 - 🪪 Me chamo Muel.
-- 👁️‍🗨️ Bug Hunter.                                          
+- 👁️‍🗨️ Programador e cibersegurança.                                          
 - 🌀 Aqui compartilho alguns projetinhos para uso de vocês. 
 
 <div style="display: inline_block"><br>
