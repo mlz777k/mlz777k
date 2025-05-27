@@ -22,8 +22,6 @@
 </a>
 
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=mlz777k&layout=compact"> 
-
 
 <img align="" alt="Muel-gif" src="https://cdn.discordapp.com/attachments/1297081021593817132/1372007680058589194/IMG_1197.gif?ex=68253539&is=6823e3b9&hm=a9cb850467d965900b5858c44d49c6f50ac7fb9f80deb8c9188b3a1e4afbf4fe&">
 
